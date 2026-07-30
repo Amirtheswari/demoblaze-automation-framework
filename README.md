@@ -13,13 +13,13 @@ Selenium Automation Framework for Demoblaze E-Commerce Application.
 6. Git
 
 ## Framework Design:
-Page Object Model
-Data Driven Testing
-Explicit Waits
-Reusable Base Class
+1. Page Object Model
+2. Data Driven Testing
+3. Explicit Waits
+4. Reusable Base Class
 
 ## Test Scenarios:
-User Sign Up
-User Login
-Add Product To Cart
-Place Order
+1. User Sign Up
+2. User Login
+3. Add Product To Cart
+4. Place Order
